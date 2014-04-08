@@ -3,10 +3,8 @@ solid markers
     outer loop
       vertex -0.329787 -0.544661 1.30886
       vertex 0.126701 -0.515426 1.32086
-      vertex 0.0921751 -0.6797943.03465
+      vertex 0.0921751 -0.679794 3.03465
     endloop
   endfacet
-endsolid
-solid front
 endsolid
 
