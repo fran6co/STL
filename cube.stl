@@ -28,4 +28,12 @@ solid markers
     endloop
   endfacet
 endsolid
-
+solid front
+  facet normal 0 0 0
+    outer loop
+      vertex -0.216116 -0.125085 2.85546
+      vertex 0.240837 -0.123948 2.84899
+      vertex 0.216116 0.174329 1.15321
+    endloop
+  endfacet
+endsolid
