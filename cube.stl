@@ -1,9 +1,9 @@
 solid Default
   facet normal 0.000000e+00 0.000000e+00 1.000000e+00
     outer loop
-      vertex -2.249740e+01 4.781970e+00 1.500000e+01
-      vertex -2.300000e+01 0.000000e+00 1.500000e+01
-      vertex -2.249740e+01 -4.781970e+00 1.500000e+01
+      vertex -470.647 1765.65 26.6428
+      vertex 311.389 1749.8 104.607
+      vertex -141.322 945.123 36.2359
     endloop
   endfacet
 endsolid
