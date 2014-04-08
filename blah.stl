@@ -1,33 +1,5 @@
-solid markers
-facet normal 0 0 0
-outer loop
-vertex -394.637 -518.68 1312.47
-vertex 63.9071 -496.267 1307.47
-vertex -1.62927e-34 -4.05263e-37 2.30397e-36
-endloop
-endfacet
-facet normal 0 0 0
-outer loop
-vertex 63.9071 -496.267 1307.47
-vertex -394.637 -518.68 1312.47
-vertex -1.62927e-34 -4.05263e-37 2.30397e-36
-endloop
-endfacet
-facet normal 0 0 0
-outer loop
-vertex -394.637 -518.68 1312.47
-vertex 1.44338e-30 3.09923e-33 -2.04971e-32
-vertex -1.62927e-34 -4.05263e-37 2.30397e-36
-endloop
-endfacet
-facet normal 0 0 0
-outer loop
-vertex 1.44338e-30 3.09923e-33 -2.04971e-32
-vertex -394.637 -518.68 1312.47
-vertex -1.62927e-34 -4.05263e-37 2.30397e-36
-endloop
-endfacet
-endsolid
+
+
 solid front
 facet normal 0 0 0
 outer loop
