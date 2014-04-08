@@ -15,16 +15,16 @@ solid Default
   endfacet
   facet normal 0 0 0
     outer loop
-      vertex 311.389 104.607 -1749.8
+      vertex 297.35720485 79.97129683 -936.29389009
       vertex -484.67879515 2.00709683 -952.14389009
       vertex -470.647 26.6428 -1765.65
     endloop
   endfacet
   facet normal 0 0 0
     outer loop
-      vertex -470.647 26.6428 -1765.65
       vertex -484.67879515 2.00709683 -952.14389009
-      vertex 311.389 104.607 -1749.8
+      vertex 297.35720485 79.97129683 -936.29389009
+      vertex -470.647 26.6428 -1765.65
     endloop
   endfacet
 endsolid
