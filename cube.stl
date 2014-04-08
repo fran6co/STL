@@ -1,30 +1,12 @@
-solid Default
+solid markers
   facet normal 0 0 0
     outer loop
-      vertex 47.1181 143.829 -3107.64
-      vertex 45.2271 291.398 -1373.91
-      vertex -406.172 165.037 -3109.94
-    endloop
-  endfacet
-  facet normal 0 0 0
-    outer loop
-      vertex -406.172 165.037 -3109.94
-      vertex 45.2271 291.398 -1373.91
-      vertex 47.1181 143.829 -3107.64
-    endloop
-  endfacet
-  facet normal 0 0 0
-    outer loop
-      vertex 45.2271 291.398 -1373.91
-      vertex -408.063 312.606 -1376.21
-      vertex -406.172 165.037 -3109.94
-    endloop
-  endfacet
-  facet normal 0 0 0
-    outer loop
-      vertex -406.172 165.037 -3109.94
-      vertex -408.063 312.606 -1376.21
-      vertex 45.2271 291.398 -1373.91
+      vertex -0.329787 -0.544661 1.30886
+      vertex 0.126701 -0.515426 1.32086
+      vertex 0.0921751 -0.6797943.03465
     endloop
   endfacet
 endsolid
+solid front
+endsolid
+
