@@ -13,5 +13,11 @@ solid Default
       vertex 47.1181 143.829 -3107.64
     endloop
   endfacet
-  
+  facet normal 0 0 0
+    outer loop
+      vertex 45.2271 312.606 -1376.21
+      vertex -408.063  336.444 -1380.22
+      vertex -406.172 165.037 -3109.94
+    endloop
+  endfacet
 endsolid
